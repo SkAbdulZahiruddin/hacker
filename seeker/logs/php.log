@@ -1,0 +1,25 @@
+[Mon Aug 14 04:01:44 2023] PHP 8.2.7 Development Server (http://0.0.0.0:8080) started
+[Mon Aug 14 04:01:47 2023] 127.0.0.1:48822 Accepted
+[Mon Aug 14 04:01:47 2023] 127.0.0.1:48822 [200]: GET /index.html
+[Mon Aug 14 04:01:47 2023] 127.0.0.1:48822 Closing
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48846 Accepted
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48846 [200]: GET /
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48846 Closing
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48856 Accepted
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48856 [200]: GET /css/main.css
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48856 Closing
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48862 Accepted
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48864 Accepted
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48862 [200]: GET /js/warpspeed.min.js
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48864 [200]: GET /js/location.js
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48862 Closing
+[Mon Aug 14 04:02:31 2023] 127.0.0.1:48864 Closing
+[Mon Aug 14 04:02:32 2023] 127.0.0.1:48872 Accepted
+[Mon Aug 14 04:02:32 2023] 127.0.0.1:48872 [200]: POST /info_handler.php
+[Mon Aug 14 04:02:32 2023] 127.0.0.1:48872 Closing
+[Mon Aug 14 04:03:21 2023] 127.0.0.1:48886 Accepted
+[Mon Aug 14 04:03:21 2023] 127.0.0.1:48886 [200]: POST /error_handler.php
+[Mon Aug 14 04:03:21 2023] 127.0.0.1:48886 Closing
+[Mon Aug 14 04:03:22 2023] 127.0.0.1:48892 Accepted
+[Mon Aug 14 04:03:22 2023] 127.0.0.1:48892 [200]: POST /result_handler.php
+[Mon Aug 14 04:03:22 2023] 127.0.0.1:48892 Closing

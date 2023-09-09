@@ -1,0 +1,64 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.11.4-5).
+python3 set to manually installed.
+python3-pip is already the newest version (23.2+dfsg-1).
+python3-pip set to manually installed.
+The following packages were automatically installed and are no longer required:
+  pipewire-alsa ruby-celluloid ruby-celluloid-io ruby-rubydns
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 77 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (23.2+dfsg-1).
+The following packages were automatically installed and are no longer required:
+  pipewire-alsa ruby-celluloid ruby-celluloid-io ruby-rubydns
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 77 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.2+93).
+php set to manually installed.
+The following packages were automatically installed and are no longer required:
+  pipewire-alsa ruby-celluloid ruby-celluloid-io ruby-rubydns
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 77 not upgraded.
+
+--------------------
+
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (2.31.0)
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+
+--------------------
+
+Requirement already satisfied: packaging in /usr/lib/python3/dist-packages (23.1)
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+
+--------------------
+
+=========
+COMPLETED
+=========
+
